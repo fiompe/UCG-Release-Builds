@@ -1,5 +1,5 @@
-UNCANNY CAT GOLF
-by SlappyHappy2000 (SH2K)
+# UNCANNY CAT GOLF
+### by SlappyHappy2000 (SH2K)
 
 The source code of release builds of the game, made public.
 
